@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GitHubAnalyzer</string>
+    <string name="error_api_message">Error: %s </string>
+    <string name="empty_state_hint">Search organization\'s repositories.</string>
+    <string name="empty_state_initial_text">Organization\'s repositories appear here</string>
+    <string name="stars">Stars:</string>
+    <string name="forks">Forks:</string>
+    <string name="fork_count">Forks: %d</string>
+    <string name="star_count">Stars: %d</string>
+    <string name="error_loading_repo">Error loading this Github repo</string>
+    <string name="repo_name"> Repo Name: %s </string>
+    <string name="repo_organization"> Organization: %s </string>
+    <string name="repo_description"> Repo Description: %s </string>
+    <string name="repo_url_button_text">Check out the repo on github</string>
+</resources>
